@@ -1,17 +1,13 @@
-github
-email
 
-# < title>
+# < t >
 
 ## Description
 
-description
+s
 
-motivation. problem. learn. stand.
+f. s. f. fg.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,11 +16,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-installation
+s
 
 ## Usage
 
-usage
+s
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
@@ -34,7 +30,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-contributing
+s
 
 ## License
 
@@ -42,10 +38,9 @@ contributing
 [Check it out!](https://opensource.org/license/apache-2-0)
 
 ## Tests
-
-test
+f
 
 ## Contact
+Github: f
+Email: f
 
-Github: github
-Email: email

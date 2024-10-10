@@ -52,9 +52,7 @@ function generateMarkdown(data) {
     license,
   } = data;
   return `
-  ${github}
-  ${email}
-# < ${title}>
+# < ${title} >
 
 ## Description
 
@@ -62,9 +60,7 @@ ${description}
 
 ${motivation}. ${problem}. ${learn}. ${stand}.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
