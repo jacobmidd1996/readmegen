@@ -66,6 +66,8 @@ ${motivation}. ${problem}. ${learn}. ${stand}.
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [tests](#tests)
+- [contact](#contact)
 
 ## Installation
 
