@@ -34,20 +34,73 @@ function renderLicenseSection(license) {}
 // WHEN I click on the links in the Table of Contents
 // THEN I am taken to the corresponding section of the README
 function generateMarkdown(data) {
-  return `# ${data.title}
-  ${data.description}
-  ${data.motivation}
-  ${data.problem}
-  ${data.learn}
-  ${data.stand}
-  ${data.github}
-  ${data.email}
-  ${data.usage}
-  ${data.test}
-  ${data.installation}
-  ${data.contributing}
-${renderLicenseBadge(data.license)}
-${renderLicenseLink(data.license)}
+  console.log("data");
+  console.log(data);
+  const {
+    title,
+    description,
+    motivation,
+    problem,
+    learn,
+    stand,
+    github,
+    email,
+    usage,
+    test,
+    installation,
+    contributing,
+    license,
+  } = data;
+  return `
+  ${github}
+  ${email}
+# < ${title}>
+
+## Description
+
+${description}
+
+${motivation}. ${problem}. ${learn}. ${stand}.
+
+## Table of Contents (Optional)
+
+If your README is long, add a table of contents to make it easy for users to find what they need.
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+${installation}
+
+## Usage
+
+${usage}
+
+To add a screenshot, create an \`assets/images\` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+    \`\`\`md
+    ![alt text](assets/images/screenshot.png)
+    \`\`\`
+
+## Credits
+
+${contributing}
+
+## License
+
+${renderLicenseBadge(license)}
+${renderLicenseLink(license)}
+
+## Tests
+${test}
+
+## Contact
+Github: ${github}
+Email: ${email}
+
 `;
 }
 
