@@ -1,10 +1,11 @@
-# < sd >
+
+# < d >
 
 ## Description
 
-d
+s
 
-d. d. d. d.
+d. s. s. s.
 
 ## Table of Contents
 
@@ -23,11 +24,11 @@ d
 
 d
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+<div align="center">
+  <a href="https://github.com/jacobmidd1996">
+    <img src="https://images.scalebranding.com/1878a2d7-6ff2-4057-a377-268f436f3399.jpg" alt="Logo" width="80" height="80">
+  </a>
+</div>
 
 ## Credits
 
@@ -39,11 +40,9 @@ d
 [Check it out!](https://opensource.org/license/apache-2-0)
 
 ## Tests
-
 d
 
 ## Contact
-
 Github: [Click to visit](https://github.com/jacobmidd1996)
+Email: d
 
-Email: h

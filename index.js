@@ -65,6 +65,11 @@ const questions = [
     name: "contributing",
   },
   {
+    type: "input",
+    message: "insert logo link",
+    name: "logo",
+  },
+  {
     type: "list",
     message: "Please choose a license",
     name: "license",
