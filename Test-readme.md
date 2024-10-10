@@ -1,11 +1,10 @@
-
-# < d >
+# < sd >
 
 ## Description
 
-dg
+d
 
-dssd. bdb. dsb. d.
+d. d. d. d.
 
 ## Table of Contents
 
@@ -18,11 +17,11 @@ dssd. bdb. dsb. d.
 
 ## Installation
 
-fdbb
+d
 
 ## Usage
 
-dsb
+d
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
@@ -32,7 +31,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-fb
+d
 
 ## License
 
@@ -40,9 +39,11 @@ fb
 [Check it out!](https://opensource.org/license/apache-2-0)
 
 ## Tests
-sdfb
+
+d
 
 ## Contact
-Github: bdb
-Email: sb
 
+Github: [Click to visit](https://github.com/jacobmidd1996)
+
+Email: h

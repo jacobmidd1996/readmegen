@@ -96,7 +96,7 @@ ${renderLicenseLink(license)}
 ${test}
 
 ## Contact
-Github: ${github}
+Github: [Click to visit](https://github.com/${github})
 Email: ${email}
 
 `;
