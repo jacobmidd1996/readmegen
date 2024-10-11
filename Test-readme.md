@@ -1,11 +1,17 @@
 
-# < d >
+# < README generator >
+
+<div align="center">
+  <a href="https://github.com/jacobmidd1996">
+    <img src="https://static.wikia.nocookie.net/hades_gamepedia_en/images/f/f5/Odysseus_PH.png/revision/latest?cb=20240418154503" alt="Logo" width="80" height="80">
+  </a>
+</div>
 
 ## Description
 
-s
+README generator using NODE js
 
-d. s. s. s.
+The motivation behind building a README generator app is to simplify the documentation process for developers, enabling them to quickly create clear and professional project overviews, thus enhancing collaboration and project visibility.. The app solves the problem of tedious and time-consuming README creation by automating the generation of structured and standardized documentation for software projects.. Alot. LOGOS.
 
 ## Table of Contents
 
@@ -18,21 +24,15 @@ d. s. s. s.
 
 ## Installation
 
-d
+npm i
 
 ## Usage
 
-d
-
-<div align="center">
-  <a href="https://github.com/jacobmidd1996">
-    <img src="https://images.scalebranding.com/1878a2d7-6ff2-4057-a377-268f436f3399.jpg" alt="Logo" width="80" height="80">
-  </a>
-</div>
+NODE JS
 
 ## Credits
 
-d
+me
 
 ## License
 
@@ -40,9 +40,9 @@ d
 [Check it out!](https://opensource.org/license/apache-2-0)
 
 ## Tests
-d
+none
 
 ## Contact
 Github: [Click to visit](https://github.com/jacobmidd1996)
-Email: d
+Email: debacled1996@gmail.com
 
